@@ -1,0 +1,13 @@
+C:\Users\TonDz\source\repos\QuanLyThueTruyen\QuanLyThueTruyen\bin\Debug\netcoreapp3.1\QuanLyThueTruyen.exe
+C:\Users\TonDz\source\repos\QuanLyThueTruyen\QuanLyThueTruyen\bin\Debug\netcoreapp3.1\QuanLyThueTruyen.deps.json
+C:\Users\TonDz\source\repos\QuanLyThueTruyen\QuanLyThueTruyen\bin\Debug\netcoreapp3.1\QuanLyThueTruyen.runtimeconfig.json
+C:\Users\TonDz\source\repos\QuanLyThueTruyen\QuanLyThueTruyen\bin\Debug\netcoreapp3.1\QuanLyThueTruyen.runtimeconfig.dev.json
+C:\Users\TonDz\source\repos\QuanLyThueTruyen\QuanLyThueTruyen\bin\Debug\netcoreapp3.1\QuanLyThueTruyen.dll
+C:\Users\TonDz\source\repos\QuanLyThueTruyen\QuanLyThueTruyen\bin\Debug\netcoreapp3.1\QuanLyThueTruyen.pdb
+C:\Users\TonDz\source\repos\QuanLyThueTruyen\QuanLyThueTruyen\obj\Debug\netcoreapp3.1\QuanLyThueTruyen.csprojAssemblyReference.cache
+C:\Users\TonDz\source\repos\QuanLyThueTruyen\QuanLyThueTruyen\obj\Debug\netcoreapp3.1\QuanLyThueTruyen.AssemblyInfoInputs.cache
+C:\Users\TonDz\source\repos\QuanLyThueTruyen\QuanLyThueTruyen\obj\Debug\netcoreapp3.1\QuanLyThueTruyen.AssemblyInfo.cs
+C:\Users\TonDz\source\repos\QuanLyThueTruyen\QuanLyThueTruyen\obj\Debug\netcoreapp3.1\QuanLyThueTruyen.csproj.CoreCompileInputs.cache
+C:\Users\TonDz\source\repos\QuanLyThueTruyen\QuanLyThueTruyen\obj\Debug\netcoreapp3.1\QuanLyThueTruyen.dll
+C:\Users\TonDz\source\repos\QuanLyThueTruyen\QuanLyThueTruyen\obj\Debug\netcoreapp3.1\QuanLyThueTruyen.pdb
+C:\Users\TonDz\source\repos\QuanLyThueTruyen\QuanLyThueTruyen\obj\Debug\netcoreapp3.1\QuanLyThueTruyen.genruntimeconfig.cache
